@@ -16,4 +16,5 @@ print(evaluacion(int(nota_alumno)))
 # print(evaluacion(4))
 
 
-# condicional que nos permite introducir por teclado la info
+
+
